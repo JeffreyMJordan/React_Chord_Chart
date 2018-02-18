@@ -1,0 +1,8 @@
+It seems like I need to do a few things 
+I need to receive the matrix, then the group names 
+From these, I need to draw the arcs and the chords 
+
+
+Other code I've seen draws the arcs and the labels at the same time - seems to make sense 
+To make an arc, I use svg path then d3 to calculate the route (or arc, in this case)
+I pass the d3 calculation to the path's 
